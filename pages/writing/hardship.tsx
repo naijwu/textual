@@ -48,7 +48,7 @@ const Hardship: NextPage = () => {
 
             Life only guarantees an adventure, and perhaps that is for the better. Recall that I wonder what my next hardship will be: implicitly, I neither desire or expect to be able to continue living the way I currently do. The real question is will I respond positively to my dear future hardship. Or is my current state a response in itself? A response of complacency, waiting for life to hit me like a truck?<br/><br/>
 
-            revisiting this idea<br/><br/><br/><br/>
+            revisiting this idea<br/><br/>
 
             recall that i am privileged to be comfortable. I think this privilege is granted to many people of my age and socioeconomic standing. That&apos;s not to excuse any negative implications of privilege by playing the relativistic moral game, saying “look they&apos;re also the same as me,” but a comment made to try partly explaining the struggles of many people of the same camp as me<br/><br/>
 
