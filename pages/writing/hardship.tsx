@@ -18,10 +18,9 @@ const Hardship: NextPage = () => {
         <div className="page">
           <p>
             <strong>
-                new personal website
+                writings {`->`} on hardship as a necessity for living
             </strong>
             <br/><br/>
-            writings {`->`} on hardship as a necessity for living<br/><br/>
 
             January 30, 2022<br/><br/>
 
