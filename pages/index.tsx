@@ -23,7 +23,7 @@ const Home: NextPage = () => {
           <br/>some <Link href="/projects">projects</Link> (more polished than others) include <Link href="https://internetspace.co">internetspace.co🡥</Link>, <Link href="https://wordseveryday.net">wordseveryday.net🡥</Link>, and <Link href="https://opengavel.app">opengavel.app🡥</Link>
           <br/><br/>
           starting middleschool, I delved into web design and built <Link href="/websites">several websites</Link> (for conferences, charities, businesses)
-          <br/>I even tried starting a my own web design business in highschool
+          <br/>I even tried starting my own web design business in highschool
           <br/>now I just manage a few of them under another sole proprietorship on the side
           <br/><br/>
           these days, I&apos;ve been learning of and building in crypto &amp; web3
@@ -31,8 +31,8 @@ const Home: NextPage = () => {
           <br/>I like to think and create
           <br/><br/>
           I tried using somewhat unconventional but (attempted) intuitive designs for this <Link href="/new">new personal website</Link>
-          <br/>but I eventually returned (for many reasons) to text as its primary structure
-          <br/>anyways, as a note, the blue links are navigation and the lighter blue links are pages that are still WIP (progress may be forever)
+          <br/>but I eventually returned (for many reasons) to using text as its primary structure
+          <br/>anyways, as a note, the blue links are for navigation and the lighter blue links are pages that are still WIP (progress may be forever)
           <br/><br/>
           cheers, and I hope you enjoy your time here
           </p>

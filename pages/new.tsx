@@ -23,13 +23,13 @@ const NewWebsite: NextPage = () => {
             <br/><br/>
             what is the point of this website? simply to express
             <br/><br/>
-            which, I&apos;d argue, is the point of posting on socials or making a videos or wearing certain clothes<br/>
-            or most of anything we do that is social, if not for its aesthetics<br/>
+            which, I&apos;d argue, is the point of posting on socials or making videos or wearing certain clothes<br/>
+            or most of anything we do that has social implications, if not for its aesthetics<br/>
             by extension, this website will always be a &quot;work in progress&quot;<br/><br/>
             
             I think there&apos;s some powerful and necessary aspect to living that involves expressing oneself<br/>
             and are stories not the best way to share knowledge of the (/a) human(&apos;s) condition? maybe not<br/>
-            but I thought it would be a fun to experiment with a walls of texts as a website LMAO
+            but I thought it would be fun to experiment with walls of texts as a website LMAO
           </p>
         </div>
       </main>
