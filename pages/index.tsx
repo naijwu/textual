@@ -26,8 +26,7 @@ const Home: NextPage = () => {
           <br/><br/>
           these days, I&apos;ve been learning of and building in crypto &amp; web3
           <br/>I&apos;m interested in the financial markets, <Link href="/writing">writing</Link>, and systems/infrastructure design
-          <br/>I like to think and create
-          <br/>I love people and ideas
+          <br/>I like to think and create, I love people and ideas
           <br/><br/>
           cheers
           </p>
