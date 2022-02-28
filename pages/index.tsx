@@ -31,7 +31,7 @@ const Home: NextPage = () => {
           <br/>I like to think and create
           <br/>I love people and ideas
           <br/><br/>
-          cheers, and I hope you enjoy your time here
+          cheers, and I hope you enjoy your time <Link href="/new">here</Link>
           </p>
         </div>
       </main>
