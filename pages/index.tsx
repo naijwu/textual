@@ -29,10 +29,7 @@ const Home: NextPage = () => {
           these days, I&apos;ve been learning of and building in crypto &amp; web3
           <br/>I&apos;m interested in the financial markets, <Link href="/writing">writing</Link>, and systems/infrastructure design
           <br/>I like to think and create
-          <br/><br/>
-          I tried using somewhat unconventional but (attempted) intuitive designs for this <Link href="/new">new personal website</Link>
-          <br/>but I eventually returned (for many reasons) to using text as its primary structure
-          <br/>anyways, as a note, the blue links are for navigation and the lighter blue links are pages that are still WIP (progress may be forever)
+          <br/>I love people and ideas
           <br/><br/>
           cheers, and I hope you enjoy your time here
           </p>
