@@ -23,6 +23,8 @@ const Democracy: NextPage = () => {
             <br/><br/>
             not much to say yet other than am working on this web3 app with a friend
             <br/><br/>
+            we&apos;re still trying to come up with a better name LOL
+            <br/><br/>
             will add more here when more happens
             <br/><br/>
             visit it at <Link href="https://democracy.so">democracy.so🡥</Link>
