@@ -21,8 +21,8 @@ const Websites: NextPage = () => {
                 website creations
             </strong>
             <br/><br/>
-            looking back, I went kind of hard with making a bunch of websites in late middle and early highschool<br/>
-            these are a couple websites I&apos;ve designed and coded<br/><br/>
+            looking back, I went kind of hard with making a bunch of websites in highschool<br/>
+            these are several I&apos;ve designed and coded<br/><br/>
             
             <Link href="https://iydi.org">int&apos;l youth debate initiative🡥</Link> was for a debate education-focused non-profit<br/>
             <span className="disabled">help the business</span> had a list of gofundme&apos;s and resources for the looting in the US<br/>
