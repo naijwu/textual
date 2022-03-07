@@ -21,11 +21,11 @@ const Mainstream: NextPage = () => {
                 building mainstream.so
             </strong>
             <br/><br/>
-            not much to say yet other than am working on this web3 app with a friend
+            not much to say yet other than am working on this token-gated forum with a friend
             <br/><br/>
             will add more here when more happens
             <br/><br/>
-            visit it at <Link href="https://mainstream.so">democracy.so🡥</Link> (nothings there)
+            visit it at <Link href="https://mainstream.so">mainstream.so🡥</Link> (nothings there)
           </p>
         </div>
       </main>
