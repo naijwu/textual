@@ -18,7 +18,7 @@ const Home: NextPage = () => {
         <div className="page">
           <p>
           based in Vancouver, I&apos;m a first-year science <Link href="/undergrad-at-ubc">undergrad @ ubc</Link>.
-          <br/>when not <Link href="/writing/studying">studying</Link>, I&apos;m developing for <Link href="/nwplus">nwPlus ubc</Link> or building <Link href="/democracy">democracy.so</Link> and <Link href="/cohear">cohear.io</Link>.
+          <br/>when not <Link href="/writing/studying">studying</Link>, I&apos;m developing for <Link href="/nwplus">nwPlus ubc</Link> or building <Link href="/mainstream">mainstream.so</Link> and <Link href="/cohear">cohear.io</Link>.
           <br/>
           <br/>early highschool I delved into web design and built <Link href="/websites">several websites</Link> (for conferences, charities, businesses).
           <br/>I have a habit of starting projects randomly (most are small, <Link href="/weekend-projects">weekend projects</Link>).
