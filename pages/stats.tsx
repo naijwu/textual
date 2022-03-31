@@ -17,7 +17,7 @@ const stats = [
     },
     {
         name: 'JavaScript',
-        cap: 5,
+        cap: 4,
         additional: 'TypeScript'
     },
     {
@@ -48,12 +48,12 @@ const stats = [
     },
     {
         name: 'NodeJS',
-        cap: 5,
-        additional: 'ExpressJS'
+        cap: 3,
+        additional: 'ExpressJS, JWT'
     },
     {
         name: 'Spring',
-        cap: 5,
+        cap: 2,
     },
     {
         name: 'MongoDB',
@@ -61,7 +61,7 @@ const stats = [
     },
     {
         name: 'PostgreSQL',
-        cap: 3,
+        cap: 2,
     },
     {
         name: 'MySQL',
