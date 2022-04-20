@@ -100,7 +100,7 @@ const Plans: NextPage = () => {
               <br /><br />
               this makes me think back to the loose plan I had for my life back in high school-- graduate, get into a good school, take a gap year, build and explore, and start school if nothing crazy came from that year off
               <br /><br />
-              I think people would say having a good plan can reconcile all these different mediums and worlds you want to enter to achieve some ends-- if my current state can be represented by a thread that diverges in the middle, a well thought out plan can be represented by threads being woven in together. like a beaded hair. like my plan in highschool
+              I think people would say having a good plan can reconcile all these different mediums and worlds you want to enter to achieve some ends-- if my current state can be represented by a thread that diverges in the middle, a well thought out plan can be represented by threads being woven in together. like a braid. like my plan in highschool
 
             </p>
 
