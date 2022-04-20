@@ -109,6 +109,30 @@ h1.linkable {
 }
 
 
+p.party-one,
+p.party-two {
+  padding-bottom: 1.5rem;
+
+  opacity: 0.65;
+  cursor: vertical-text;
+}
+
+p.party-one {
+  color: rgb(203, 91, 0);
+}
+
+p.party-two {
+  color: rgb(104, 0, 178);
+}
+
+p.party-one:hover,
+p.party-two:hover {
+  opacity: 1;
+  /* color: black; */
+}
+
+
+
 /* Darkmode */
 
 body.dm {

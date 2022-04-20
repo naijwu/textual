@@ -33,8 +33,10 @@ const WritingIndex: NextPage = () => {
             they are only attempts to play with ideas, not to be taken too seriously or interpreted as absolutes that I have conviction in<br />
             I seldom return to edit these writings, although maybe I should<br /><br />
 
-            with that in mind, I&apos;ve jotted thoughts <Link href="/writing/hardship">on hardship and its neccessity to living</Link><br />
-            and <Link href="/writing/studying">perceived conditions for my productivity</Link><br />
+            with that in mind, I&apos;ve jotted some thoughts <br/>
+            <Link href="/writing/plans">about vision, potential, plans, chaos</Link><br />
+            <Link href="/writing/hardship">on hardship and its neccessity to living</Link><br />
+            <Link href="/writing/studying">on perceived conditions for my productivity</Link><br />
           </p>
         </div>
       </main>

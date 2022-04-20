@@ -49,7 +49,7 @@ const stats = [
     {
         name: 'NodeJS',
         cap: 3,
-        additional: 'ExpressJS, JWT'
+        additional: 'ExpressJS'
     },
     {
         name: 'Spring',
@@ -74,7 +74,7 @@ const stats = [
     {
         name: 'Firebase',
         cap: 4,
-        additional: 'Firestore, RTDB, Auth, Hosting, GC Storage'
+        additional: ''
     },
     {
         name: 'Supabase',
