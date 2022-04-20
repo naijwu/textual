@@ -31,7 +31,7 @@ const Plans: NextPage = () => {
             <p className="party-one">
               true, but at the same time, it sometimes feels like the inability to focus on something has to do with the domain in which those specific things you&apos;re trying to focus on exists
               <br /><br />
-              like, I love reading research, I love going on rabbit-hole deep dives of certain interests, although that drive would have to be externally induced when researching for writing essays in English HL... I love learning abstract concepts and experimenting with putting them it in practice through, say, technical projects, but after understanding high-level math concepts in math 101, and that only motivated by some vague curiosity, I feel so little motivation (feels like I&apos;m being demotivated in some respects) to practice those skills by using them to solve some weird rational integral with a bunch of euler numbers raised to x with even more powers on top
+              like, I love reading research, I love going on rabbit-hole deep dives of certain interests, although that drive would have to be externally induced when researching for writing essays in English HL... I love learning abstract concepts and experimenting with putting them it in practice through, say, technical projects, but after understanding high-level math concepts in math 101, and that even only motivated by some vague curiosity, I feel so little motivation (feels like I&apos;m being demotivated in some respects) to practice those skills by using them to solve some weird rational integral with a bunch of euler numbers raised to x with even more powers on top
             </p>
 
             <p className="party-two">
