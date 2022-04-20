@@ -34,7 +34,7 @@ const WritingIndex: NextPage = () => {
             I seldom return to edit these writings, although maybe I should<br /><br />
 
             with that in mind, I&apos;ve jotted some thoughts <br/>
-            <Link href="/writing/plans">about vision, potential, plans, chaos</Link><br />
+            <Link href="/writing/plans">about vision, potential, plans, chaos</Link> (warning: makes absolutely no sense)<br />
             <Link href="/writing/hardship">on hardship and its neccessity to living</Link><br />
             <Link href="/writing/studying">on perceived conditions for my productivity</Link><br />
           </p>
