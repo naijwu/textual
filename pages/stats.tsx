@@ -8,7 +8,7 @@ import styles from '../styles/Home.module.css'
 const barSolid = '▮'
 const barEmpty = '▯'
 const smileBig = '😁'
-const smileMild = '🙂'
+const smileMild = ''
 
 const stats = [
     {
