@@ -74,7 +74,7 @@ const Plans: NextPage = () => {
             </p>
 
             <p className="party-one">
-              I think one desire I&apos;ve always had was to be free to explore the world creatively. explore not necessarily via &quot;travelling the world&quot;, although that can always be good, but explore by taking the freedom to look at the world in different ways--be free to think, well, freely about the world, read a lot of books, meet different people, explore my own thoughts through writing--you know, take the time to write more, become better at it, better at expression. I think this desire is fundamentally rooted in wanting to be more human; a desire to, in a math analogy, create more connections between myself and other nodes in this existence; other people, other experiences, other entities in general
+              I think one desire I&apos;ve always had was to be free to explore the world creatively. explore not necessarily via &quot;travelling the world&quot;, although that can always be good, but explore by taking the freedom to look at the world in different ways--be free to think, well, freely about the world, read a lot of books, meet different people, explore my own thoughts through writing--you know, take the time to write more, become better at it, better at expression. I think this desire is fundamentally rooted in wanting to be more human; a desire to, in a math analogy, create more connections between myself and other nodes in this existence; other people, other experiences, other entities in general. Spread good vibes
               <br/><br />
               another desire would be the aim at social success. and that doesn&apos;t necessarily mean playing the &apos;typical&apos; status game. a large part of social success, and one I personally focus more on when it comes to this game, is not to actively succeed but to prevent failure; to not fall behind my peers while they enter into certain universities and get certain internships during, get certain jobs after, accumulate certain material wealth throughout.
               <br/><br />
@@ -138,6 +138,20 @@ const Plans: NextPage = () => {
               <br /><br />
               and that can make us more absolutely uncertain about our future
 
+            </p>
+
+            <p className="party-one">
+              yeah. 
+              <br/><br/>
+              we still have to explore exactly why one may choose one plan or the other: a 
+              conversation of, what exactly do you like to do? what do you have a passion for, 
+              what would you work better in?
+              And not to mention, the relationship 
+              between passion and vision is also very significant.
+              <br/><br/>
+              but I suppose that is why we have different plans or different mediums to ends in the first place: a compromise. do we take it though?
+              <br/><br/>
+              maybe for another time. i think ive made enough nonsense for a day
             </p>
           </p>
         </div>
