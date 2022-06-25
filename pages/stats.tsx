@@ -39,7 +39,7 @@ const stats = [
     },
     {
         name: 'ReactJS',
-        cap: 5,
+        cap: 4,
     },
     {
         name: 'React Native',
