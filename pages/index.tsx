@@ -38,8 +38,7 @@ const Home: NextPage = () => {
             &quot;plain looking&quot;<br/>
             &quot;unprofessional&quot;<br />
             &quot;you should add some images&quot;<br/><br />
-            but the site is what it is<br />
-            regardless of anything anyone tells it what it should be
+            but the site is what it is
           </p>
         </div>
       </main>
