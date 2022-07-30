@@ -23,7 +23,6 @@ const Websites: NextPage = () => {
             <br/><br/>
             looking back, I went kind of hard with making a bunch of websites in highschool<br/>
             these are several I&apos;ve designed and coded<br/><br/>
-            
             <Link href="https://iydi.org"><a>int&apos;l youth debate initiative<sup>site</sup></a></Link> was for a debate education-focused non-profit<br/>
             <span className="disabled">help the business</span> had a list of gofundme&apos;s and resources for the looting in the US<br/>
             <span className="disabled">pa senate</span> was for my highschool&apos;s student government<br/>

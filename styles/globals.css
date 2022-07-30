@@ -108,6 +108,13 @@ h1.linkable {
   color: #1b50b3;
 }
 
+p.lower {
+  color: white;
+  cursor: default;
+}
+
+
+/* Conversation */
 
 p.party-one,
 p.party-two {
@@ -130,7 +137,6 @@ p.party-two:hover {
   opacity: 1;
   /* color: black; */
 }
-
 
 
 /* Darkmode */
@@ -157,4 +163,7 @@ body.dm h1.linkable {
 body.dm .disabled,
 body.dm .disabled:hover {
   color: rgba(46, 97, 192, 0.562);
+}
+body.dm p.lower {
+  color: rgb(37, 37, 37);
 }

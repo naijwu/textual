@@ -21,11 +21,9 @@ const Mainstream: NextPage = () => {
                 building mainstream.so
             </strong>
             <br/><br/>
-            not much to say yet other than am working on this token-gated forum with a friend
+            launch soon {`:')`}
             <br/><br/>
-            will add more here when more happens
-            <br/><br/>
-            visit it at <Link href="https://mainstream.so">mainstream.so🡥</Link> (nothings there)
+            visit the landing at <Link href="https://mainstream.so">mainstream.so🡥</Link>
           </p>
         </div>
       </main>

@@ -31,12 +31,15 @@ const WritingIndex: NextPage = () => {
             most these “writings” are pre first-draft writing, structureless mini thoughts with abundant grammatical errors<br />
             I usually write them in a single sitting and word vomit<br />
             they are only attempts to play with ideas, not to be taken too seriously or interpreted as absolutes that I have conviction in<br />
-            I seldom return to edit these writings, although maybe I should<br /><br />
+            I seldom return to edit these writings, although I should<br /><br />
 
             with that in mind, I&apos;ve jotted some thoughts <br/>
             {/* <Link href="/writing/plans">about vision, potential, plans, chaos</Link> (warning: makes absolutely no sense)<br /> */}
             <Link href="/writing/hardship">on hardship and its neccessity to living</Link><br />
             <Link href="/writing/studying">on perceived conditions for my productivity</Link><br />
+            {/* <br />
+            and had conversation with friends <br/>
+            <Link href="/writing/conversation/june">on abortion laws + social discourse</Link><br /> */}
           </p>
         </div>
       </main>

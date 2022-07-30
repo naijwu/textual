@@ -37,7 +37,7 @@ const WeekendProjects: NextPage = () => {
             <br/><br/>
             I also have some projects that I&apos;ve started but discontinued progress:
             <br/><br/>
-            <Link href="https://github.com/naijwu/hrulmk">hrulmk🡥</Link> is a text-based reflection app {`<->`} <Link href="https://www.figma.com/file/2qZPaFqaaPfiqqVX8Fpp9f/hrulmk?node-id=0%3A1">figma🡥</Link><br/>
+            <Link href="https://github.com/naijwu/hrulmk">hrulmk🡥</Link> is a texting-based reflection app {`<->`} <Link href="https://www.figma.com/file/2qZPaFqaaPfiqqVX8Fpp9f/hrulmk?node-id=0%3A1">figma🡥</Link><br/>
             <span className="disabled">notetrip</span> is a trip-based journalling app (I used to like exploring suburbs) {`<->`} <Link href="https://www.figma.com/file/Cg87L6lLSB5uYDSwMN5WVI/Notetrip?node-id=0%3A1">figma🡥</Link>
           </p>
         </div>
