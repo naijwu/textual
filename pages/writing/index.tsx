@@ -37,9 +37,9 @@ const WritingIndex: NextPage = () => {
             {/* <Link href="/writing/plans">about vision, potential, plans, chaos</Link> (warning: makes absolutely no sense)<br /> */}
             <Link href="/writing/hardship">on hardship and its neccessity to living</Link><br />
             <Link href="/writing/studying">on perceived conditions for my productivity</Link><br />
-            {/* <br />
-            and had conversation with friends <br/>
-            <Link href="/writing/conversation/june">on abortion laws + social discourse</Link><br /> */}
+            <br />
+            a <Link href="/writing/memo/keep">small list</Link> of short note entries exists too...<br/>
+            google keep is my most frequented app, used whenever I want to memo anything containing three words to five paragraphs<br/>
           </p>
         </div>
       </main>

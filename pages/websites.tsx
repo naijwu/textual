@@ -33,7 +33,7 @@ const Websites: NextPage = () => {
             <Link href="https://debateon.ca"><a>bc forensics league<sup>site</sup></a></Link> was for a debate academy<br/>
             <Link href="https://inovaca.org"><a>inova computer association<sup>site</sup></a></Link> was for a highschool org that hosted cs-related workshops and events<br/>
             <span className="disabled">wish youth network society</span> was for a highschool charity that fundraised for research<br/>
-            <Link href="https://github.com/naijwu/prospervancouver"><a>prosper vancouver<sup>site</sup></a></Link> was for another highschool case competition {`<->`} <Link href="https://openpage.me/prosper"><a>2018<sup>site</sup></a></Link> <br/>
+            <Link href="https://github.com/naijwu/prospervancouver"><a>prosper vancouver<sup>github</sup></a></Link> was for another highschool case competition {`<->`} <Link href="https://openpage.me/prosper"><a>2018<sup>site</sup></a></Link> <br/>
             <span className="disabled">central model un</span> was for an inaugural MUN day-conference<br/>
           </p>
         </div>
