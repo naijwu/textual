@@ -31,11 +31,6 @@ const Home: NextPage = () => {
           <br/><br/>
           cheers
           </p>
-          <p className="lower">
-            <br/>
-            this site is an expression<br/>
-            the site is what it is
-          </p>
         </div>
       </main>
     </div>
