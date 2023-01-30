@@ -24,6 +24,9 @@ const WeekendProjects: NextPage = () => {
             by chronological order, these are some of my smaller projects:
             <br/><br/>
             <span className="disabled">
+                cow
+            </span> is a manual transaction-entry based net worth tracker<br/>
+            <span className="disabled">
                 maxerp
             </span> is a bespoke light and modular ERP and invoicing program<br/>
             <Link href="https://github.com/naijwu/cahsmun-campus">cahsmun campus🡥</Link> is a fancy directory of zoom meetings for a conference<br/>
