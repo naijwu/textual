@@ -2,6 +2,7 @@ import type { NextPage } from 'next'
 import Head from 'next/head'
 import Link from 'next/link'
 import Top from '../components/Top'
+import Widgets from '../components/Widgets/Widgets'
 import styles from '../styles/Home.module.css'
 
 const Home: NextPage = () => {
@@ -14,6 +15,8 @@ const Home: NextPage = () => {
 
       <main className={styles.main}>
         <Top />
+
+        <Widgets />
 
         <div className="page">
           <p>

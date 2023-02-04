@@ -1,0 +1,45 @@
+
+.wrapper {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+    align-items: flex-end;
+    user-select: none;
+}
+.label {
+    font-size: 0.95rem;
+    opacity: 0.4;
+}
+
+.container {
+    border: 0.5px solid #DDE4E9;
+    border-radius: 0.5rem;
+    padding: 0.5rem;
+    display: flex;
+    align-items: center;
+    min-width: 250px;
+    background: white;
+}
+
+.imageContainer {
+    height: 60px;
+    width: 60px;
+    position: relative;
+    border-radius: 0.5rem;
+    overflow: hidden;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.35rem;
+    padding: 0 1.25rem 0 0.75rem;
+}
+
+.albumName {
+    font-weight: 500;
+}
+
+.artist {
+
+}
