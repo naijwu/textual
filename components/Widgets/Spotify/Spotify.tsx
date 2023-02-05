@@ -27,18 +27,18 @@ const Spotify = () => {
 
     }, [])
 
-    return playing ? (
+    return playing && playing.item ? (
         <div className={styles.wrapper}>
             <div className={styles.container}>
                 <div className={styles.imageContainer}>
-                    {playing.item.album.images.length > 1 && <Image src={playing.item.album.images[1].url} alt={'image'} layout="fill" objectFit="cover" unoptimized />}
+                    {playing.item?.album?.images.length > 1 && <Image src={playing.item.album.images[1].url} alt={'image'} layout="fill" objectFit="cover" unoptimized />}
                 </div>
                 <div className={styles.info}>
                     <div className={styles.albumName}>
-                        {playing.item.album.name}
+                        {playing.item?.album?.name}
                     </div>
                     <div className={styles.artist}>
-                        {playing.item.artists[0].name}
+                        {playing.item?.artists[0].name}
                     </div>
                 </div>
             </div>
