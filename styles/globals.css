@@ -1,18 +1,43 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap');
 
+:root {
+  --foreground-rgb: 0, 0, 0;
+  --background-start-rgb: 214, 219, 220;
+  --background-end-rgb: 255, 255, 255;
+
+  --callout-rgb: 238, 240, 241;
+  --callout-border-rgb: 172, 175, 176;
+  --card-rgb: 180, 185, 188;
+  --card-border-rgb: 131, 134, 135;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+
+    --callout-rgb: 20, 20, 20;
+    --callout-border-rgb: 108, 108, 108;
+    --card-rgb: 100, 100, 100;
+    --card-border-rgb: 200, 200, 200;
+  }
+
+  body::-moz-selection {
+    background:rgba(255,255,255,0.15);
+  }
+
+  body::selection {
+    background:rgba(255,255,255,0.15);
+  }
+}
+
 ::-moz-selection { 
   background: rgba(0,0,0,0.14);
 }
 
 ::selection {
   background: rgba(0,0,0,0.14);
-}
-
-body.dm::-moz-selection {
-  background:rgba(255,255,255,0.15);
-}
-body.dm::selection {
-  background:rgba(255,255,255,0.15);
 }
 
 ::-webkit-scrollbar {
@@ -42,6 +67,13 @@ html {
   font-size: 14px;
   letter-spacing: -0.2px;
 }
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+}
+
 
 a {
   color: inherit;
@@ -141,34 +173,4 @@ p.party-one:hover,
 p.party-two:hover {
   opacity: 1;
   /* color: black; */
-}
-
-
-/* Darkmode */
-
-body.dm {
-  background:rgb(37, 37, 37);
-}
-
-body.dm p {
-  color: rgba(255,255,255, 0.28)
-}
-
-body.dm .icon {
-  color: rgba(255,255,255,0.28);
-}
-
-body.dm a {
-  color: #6c9bf3a2;
-}
-body.dm a:hover:not(.icon),
-body.dm h1.linkable {
-  color: rgba(55, 106, 201, 0.635)
-}
-body.dm .disabled,
-body.dm .disabled:hover {
-  color: rgba(46, 97, 192, 0.562);
-}
-body.dm p.lower {
-  color: rgb(37, 37, 37);
 }

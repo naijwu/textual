@@ -6,18 +6,6 @@ import { useEffect, useState } from "react";
 const Top = () => {
     const router = useRouter();
 
-    const [ lights, setLights ] = useState( typeof window !== "undefined" ? sessionStorage.getItem("dm") ? true : false : false); 
-
-    useEffect(() => {
-        if(lights) {
-            document.body.classList.add("dm");
-            sessionStorage.setItem("dm", "indeed yes i am in dark mode")
-        } else {
-            document.body.classList.remove("dm");
-            sessionStorage.removeItem("dm")
-        }
-    }, [ lights])
-
     return (
         <div style={{
             display: "flex",
@@ -26,14 +14,11 @@ const Top = () => {
             paddingBottom: "2.5rem"
         }}>
             {(router.asPath === "/" ) ? (
-                <h1 style={{
-                    color: lights ? "rgba(255,255,255, 0.28)" : "black"
-                }}>jaewuchun</h1>
+                <h1>jaewuchun</h1>
             ) : (
                 <Link href="/" passHref>
                     <h1 className="linkable" style={{
                         cursor: "pointer",
-                        color: lights ? "#6c9bf3a2" : "#2e61c0"
                     }}>jaewuchun</h1>
                 </Link>
             )}
@@ -56,15 +41,6 @@ const Top = () => {
                 <a className="icon" href="https://facebook.com/jaewuchun" target="_blank" rel="noreferrer">
                     <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><path d="M18 2h-3a5 5 0 0 0-5 5v3H7v4h3v8h4v-8h3l1-4h-4V7a1 1 0 0 1 1-1h3z"></path></svg>
                 </a>
-            </div>
-            <div style={{
-                display: "flex",
-                flexGrow: "2",
-                justifyContent: "flex-end"
-            }}>
-                <span className="icon" onClick={()=>setLights(!lights)}>
-                    <svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
-                </span>
             </div>
         </div>
     )

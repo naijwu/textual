@@ -23,6 +23,7 @@ const WeekendProjects: NextPage = () => {
             <br/><br/>
             by chronological order, these are some of my smaller projects:
             <br/><br/>
+            <Link href="https://github.com/naijwu/twoplates">twoplates🡥</Link> makes it easy for you to track and share your gym stats<br/>
             <span className="disabled">
                 cow
             </span> is a manual transaction-entry based net worth tracker<br/>
