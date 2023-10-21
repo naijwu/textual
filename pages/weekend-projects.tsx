@@ -24,7 +24,7 @@ const WeekendProjects: NextPage = () => {
             by chronological order, these are some of my smaller projects:
             <br/><br/>
             <Link href="https://steno.site">steno.site🡥</Link> simple speech to text site, as a PWA<br/>
-            <Link href="https://dialog.courses">dialog🡥</Link> helps you practice speaking a language you're learning in various situations<br/>
+            <Link href="https://dialog.courses">dialog🡥</Link> helps you practice conversing in various situations<br/>
             <Link href="https://github.com/naijwu/twoplates">twoplates🡥</Link> makes it easy for you to track and share your gym stats<br/>
             <span className="disabled">
                 cow
