@@ -21,18 +21,18 @@ const Mainstream: NextPage = () => {
                 building mainstream.so
             </strong>
             <br/><br/>
-            launched closed beta!
+            mainstream is an experiment lab for servicing internet native communities
             <br/><br/>
-            mainstream is a modular, end-to-end governance platform for DAOs. Discuss proposals, have off-chain voting (Moloch, Snapshot, etc.), and then on-chain voting (Bravo, etc.) all in a package that makes sense and is efficient
+            we've closed our pre-seed round (led by Lemniscap, joined by Samsung Next + many amazing angels) to focus on onboarding organizations to the platform
             <br/><br/>
-            currently closing our pre-seed round (led by Lemniscap, joined by Samsung Next + many amazing angels) to focus on onboarding organizations to the platform
+            mainstream client is a modular, end-to-end governance platform for DAOs. Discuss proposals, have off-chain voting (Moloch, Snapshot, etc.), and then on-chain voting (Bravo, etc.) all in a package that makes sense and is efficient
             <br/><br/>
-            medium to long term, we want to offer deep treasury + delegation insight,
-            as well as explore metagovernance + cross-chain governance
+            mainstream pager can notify you (Slack, Discord, email, etc.) based on community events (proposal starting, voting ending soon, etc.)
             <br/><br/>
-            exciting!
+            pager for protocols gives community core members a convenient way to blast updates to community members
             <br/><br/>
-            visit the landing at <Link href="https://mainstream.so">mainstream.so🡥</Link>
+            visit our client landing <Link href="https://mainstream.so">mainstream.so🡥</Link><br/>
+            visit our Pager landing <Link href="https://getpager.xyz">mainstream.so🡥</Link>
           </p>
         </div>
       </main>
