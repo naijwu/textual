@@ -20,7 +20,7 @@ const Home: NextPage = () => {
 
         <div className="page">
           <p>
-          based in Vancouver, I&apos;m a second-year science <Link href="/undergrad-at-ubc">undergrad @ ubc</Link> (currently on gap).
+          based in Vancouver, I&apos;m a second-year science <Link href="/undergrad-at-ubc">undergrad @ ubc</Link> (part time).
           <br/>when not building <Link href="/mainstream">mainstream.so</Link>, I&apos;m vibing with <Link href="/nwplus">nwPlus ubc</Link> or going for a drive.
           <br/>
           <br/>early highschool I built <Link href="/websites">several websites</Link> (for conferences, charities, businesses).
