@@ -28,6 +28,7 @@ const Undergrad: NextPage = () => {
             CPSC 110: Systematic Program Design (DrRacket, Recursion)<br />
             CPSC 121: Models of Computation (Logic)<br />
             CPSC 210: Software Construction (Java)<br />
+            CPSC 213: Introduction to Computer Systems (Assembly and C)<br />
             MATH 100: Differential Calculus w/ Physics applications (Calc 1)<br />
             MATH 101: Integral Calculus w/ Physics applications (Calc 2)<br />
             ATSC 113: Atmospheric Science<br /><br />
