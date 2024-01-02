@@ -11,27 +11,6 @@
   --card-border-rgb: 131, 134, 135;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
-
-    --callout-rgb: 20, 20, 20;
-    --callout-border-rgb: 108, 108, 108;
-    --card-rgb: 100, 100, 100;
-    --card-border-rgb: 200, 200, 200;
-  }
-
-  body::-moz-selection {
-    background:rgba(255,255,255,0.15);
-  }
-
-  body::selection {
-    background:rgba(255,255,255,0.15);
-  }
-}
-
 ::-moz-selection { 
   background: rgba(0,0,0,0.14);
 }
@@ -68,12 +47,6 @@ html {
   letter-spacing: -0.2px;
 }
 
-@media (prefers-color-scheme: dark) {
-  html {
-    color-scheme: dark;
-  }
-}
-
 
 a {
   color: inherit;
@@ -104,9 +77,9 @@ h1 {
 }
 
 p {
-  font-weight: 500;
+  font-weight: 400;
   line-height: 150%;
-  font-size: 1.25rem;
+  font-size: 1.2rem;
   margin:0;
 }
 
@@ -173,4 +146,56 @@ p.party-one:hover,
 p.party-two:hover {
   opacity: 1;
   /* color: black; */
+}
+
+
+
+
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  :root {
+    --foreground-rgb: 255, 255, 255;
+    --background-start-rgb: 0, 0, 0;
+    --background-end-rgb: 0, 0, 0;
+
+    --callout-rgb: 20, 20, 20;
+    --callout-border-rgb: 108, 108, 108;
+    --card-rgb: 100, 100, 100;
+    --card-border-rgb: 200, 200, 200;
+  }
+
+  body::-moz-selection {
+    background:rgba(255,255,255,0.15);
+  }
+
+  body::selection {
+    background:rgba(255,255,255,0.15);
+  }
+
+  .icons > a {
+    color: white;
+  }
+
+  a {
+    color: #548aee;
+  }
+  a:hover:not(.icon),
+  h1.linkable {
+    color: #548aee;
+  }
+
+  .linkable {
+    color: #548aee;
+  }
+
+  .clickable {
+    color: #548aee;
+  }
+  .clickable:hover {
+    color: #1b50b3;
+  }
+  
 }

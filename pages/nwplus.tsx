@@ -35,7 +35,9 @@ const NwPlus: NextPage = () => {
             {`(Mar 22 ~ Mar 23)`}
             <br/><br/>
 
-            hired two new devs as an incoming (for 2022-23) director<br/><br/>
+            hired two new devs as a director.<br/><br/>
+            my primary focus was to cultivate a great culture
+            <br/><br/>
             <br/>
           </p>
           <p>
@@ -46,8 +48,8 @@ const NwPlus: NextPage = () => {
             
             <br/><br/>
             I pushed modifications and updates for internal tools (hackathon applicant evaluator),<br/>
-            update hacker-facing applications (hacker portal), and<br/>
-            create and/or update the websites for nwHacks, HackCamp, and cmd-f*.<br/>
+            updated hacker-facing applications (hacker portal), and<br/>
+            created and updated the websites for nwHacks, HackCamp, and cmd-f* hackathons.<br/>
             we work with react and firebase.<br/><br/>
 
             visit nwPlus at <Link href="https://nwplus.io">nwplus.io🡥</Link>
